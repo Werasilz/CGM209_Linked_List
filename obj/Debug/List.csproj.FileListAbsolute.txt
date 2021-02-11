@@ -1,0 +1,7 @@
+C:\Users\zen_f\source\repos\List\List\bin\Debug\List.exe.config
+C:\Users\zen_f\source\repos\List\List\bin\Debug\List.exe
+C:\Users\zen_f\source\repos\List\List\bin\Debug\List.pdb
+C:\Users\zen_f\source\repos\List\List\obj\Debug\List.csprojAssemblyReference.cache
+C:\Users\zen_f\source\repos\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+C:\Users\zen_f\source\repos\List\List\obj\Debug\List.exe
+C:\Users\zen_f\source\repos\List\List\obj\Debug\List.pdb
